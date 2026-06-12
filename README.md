@@ -21,6 +21,11 @@ CLI toolkit for automating video publishing to YouTube and Facebook Pages. OAuth
 auto-refresh, resumable uploads, cron-ready. Real production code running daily.
 Python, Google API, Facebook Graph API.
 
+**[review-reply-ai](https://github.com/cheeselvl-star/review-reply-ai)**
+AI-powered Google review response generator for small businesses. Supports English,
+Bahasa Malaysia, Mandarin, Tamil, and bilingual responses. Tone auto-adjusts by star
+rating. Next.js 16, React 19, TypeScript, DeepSeek API.
+
 ---
 
 ## Background
