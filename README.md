@@ -31,8 +31,7 @@ rating. Next.js 16, React 19, TypeScript, DeepSeek API.
 ## Background
 
 - 7 years in cybersecurity — enterprise endpoint, XDR/EDR, network, and cloud security
-- Built and operated a 3-node home cluster (Mac M1 + Mac M4 + Raspberry Pi 5) over
-  Tailscale VPN for running 24/7 services and local LLM inference
+- Built and operated a cluster over VPN for running 24/7 services and local LLM inference
 - Built a custom multi-agent AI orchestration platform from scratch: REST API gateway,
   async session management, cron scheduler, self-modifying configuration
 - Automated trading systems: crypto grid bot (live), Polymarket prediction market bots
@@ -46,7 +45,7 @@ rating. Next.js 16, React 19, TypeScript, DeepSeek API.
 
 **Infrastructure:** Docker, systemd, Linux, Tailscale VPN, SSH, UFW, Raspberry Pi
 
-**APIs:** YouTube Data API, Facebook Graph API, Bybit CLOB, Polymarket CLOB, Claude API, Ollama
+**APIs:** YouTube Data API, Facebook Graph API, Claude API, Ollama
 
 **Security:** Trend Micro Vision One (XDR/EDR), Apex One, Deep Security, TippingPoint IPS,
 Microsoft Intune, Jamf, VMware Workspace ONE
